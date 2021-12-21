@@ -9,9 +9,9 @@ Neste contexto, criamos a rede social DO ZERO hub, com o objetivo de proporciona
 
 
  ## 🔗 Link do Projeto
-* Link para a pasta do frontend: https://github.com/DozeroHub/Front-End-V4.git
+* Link para o repositório do frontend: https://github.com/DozeroHub/Front-End-V4.git
 
-* Link para a pasta do Backend:  https://github.com/DozeroHub/DoZeroHub-Backend.git
+* Link para o repositório do Backend:  https://github.com/DozeroHub/DoZeroHub-Backend.git
 
 
  ## 👾 Time
